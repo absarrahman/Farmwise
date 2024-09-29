@@ -14,20 +14,26 @@ Ensure you have reviewed the [Rules & FAQ](https://hackmidwest.com/#faq)
 ## Who's on your team?
 *List the full names,  email address & Github username of your teammates*
 
-1.   **Full Name**  || **fullname@company.com**  (or fullname@school.edu if you're a CS student) || **Github Username**
-2. 
-3.
-4.
-5.
+1.   **RokunuzJahan Rudro**  || **rudro12356@ku.edu** || **rudro12356**
+2.   **Md. Mashfiq Rizvee**  || **mashfiq.rizvee@ku.edu** || **mashfiq137** 
+3.   **Rahman, Moh Absar**   || **moh.absar.rahman@ku.edu** || **absarrahman**
 
 <br /><br />
 
 
 ## What is the name of your App?
 
-<br /><br />
+<br />FARMWISE<br />
 ## What does your app do?
-*Describe in a paragraph or so*
+
+FarmWise is an intelligent farming assistant powered by AI, designed to help farmers optimize their crops, understand soil health, diagnose plant diseases, and provide weather-based recommendations.
+
+Using the capabilities of AWS Bedrock and integrating Claude 3.5 Sonnet with Advanced Prompt Engineering techniques likes Chain of Thought and Few Shot Learning for both text and vision tasks, FARMWISE allows farmers to:
+
+Ask questions about crop management, soil health, or weather forecasts.  
+Upload crop images for real-time disease diagnosis and get actionable insights.  
+Receive context-aware advice based on their geographical location and weather conditions.  
+With a user-friendly interface, FarmWise ensures that farmers can easily access and understand the recommendations needed to make data-driven decisions, improving farm productivity and crop quality.  
 
 <br /><br />
 
@@ -37,11 +43,9 @@ Ensure you have reviewed the [Rules & FAQ](https://hackmidwest.com/#faq)
 - [ ]  Pinata Challenge
 - [ ]  Pinata AI Challenge
 - [ ]  Pinata Enterprise Challenge
-- [ ]  AWS Bedrock Challenge
+- [X]  AWS Bedrock Challenge
 - [ ]  Red Hat | Intel AI Challenge
 - [ ]  Zoom Challenge
 - [ ]  USDA Challenge
 - [ ]  brAIn Rot Challenge
-
-
 <br /><br />
